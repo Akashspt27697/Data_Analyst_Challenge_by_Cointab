@@ -1,2 +1,9 @@
 /venv
 .env
+
+# excel files
+Company_X_Order_Report.xlsx
+Company_X_SKU_Master.xlsx
+CompanyX_Pincode_Zones.xlsx
+CourierCompany_Invoice.xlsx
+CourierCompany_Rates.xlsx
